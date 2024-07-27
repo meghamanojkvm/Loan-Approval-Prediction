@@ -57,7 +57,7 @@ This project demonstrated how to preprocess data, encode categorical variables, 
 
 ## References
 
-- Dataset: [Kaggle Loan Approval Dataset]([https://www.kaggle.com/](https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset))
+- Dataset: [Kaggle Loan Approval Dataset](https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset)
 - [TensorFlow Documentation](https://www.tensorflow.org/)
 - [XGBoost Documentation](https://xgboost.readthedocs.io/)
 
